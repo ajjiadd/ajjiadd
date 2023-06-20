@@ -1,11 +1,11 @@
 ### Hi there 👋, It's A.J
 #### Web Developer 🔵
-![Web Developer 🔵](https://www.freecodecamp.org/news/content/images/2022/01/alexander-sinn-KgLtFCgfC28-unsplash.jpg)
+![Web Developer 🔵](https://cdn.ttgtmedia.com/rms/onlineimages/code_g1019737194.jpg)
 
 #include<stdio.h>
 int main()
 {
-Printf("#### PROGRAMMER");
+Printf("PROGRAMMER");
 }
 return 0;
 
