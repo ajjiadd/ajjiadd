@@ -1,6 +1,6 @@
 ### Hi there 👋, It's A.J
 #### Web Developer 🔵
-![Web Developer 🔵]([https://cdn.ttgtmedia.com/rms/onlineimages/code_g1019737194.jpg](https://media.licdn.com/dms/image/D4E16AQEdgsUVYGfHcA/profile-displaybackgroundimage-shrink_350_1400/0/1689082800512?e=1694649600&v=beta&t=AVavxhzhw0tz6dBplJYh5tn6imN0VwRL6po-0H_Wlx8))
+![Web Developer 🔵]([[https://cdn.ttgtmedia.com/rms/onlineimages/code_g1019737194.jpg](https://media.licdn.com/dms/image/D4E16AQEdgsUVYGfHcA/profile-displaybackgroundimage-shrink_350_1400/0/1689082800512?e=1694649600&v=beta&t=AVavxhzhw0tz6dBplJYh5tn6imN0VwRL6po-0H_Wlx8)](https://media.licdn.com/dms/image/D4E16AQEdgsUVYGfHcA/profile-displaybackgroundimage-shrink_350_1400/0/1689082800512?e=1694649600&v=beta&t=AVavxhzhw0tz6dBplJYh5tn6imN0VwRL6po-0H_Wlx8))
 
 #include<stdio.h>
 int main()
