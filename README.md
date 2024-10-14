@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web Developer</h3>
 
 <div align="center">
-    <img src="https://media.licdn.com/dms/image/v2/D4E16AQEdgsUVYGfHcA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1689082802429?e=1734566400&v=beta&t=7BNSxsGy7S_9XsQrxaj6WR2fHSWgZRc9df7fhyjahWc" alt="Profile Picture" width="200" />
+    <img src="https://media.licdn.com/dms/image/v2/D4E16AQEdgsUVYGfHcA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1689082802429?e=1734566400&v=beta&t=7BNSxsGy7S_9XsQrxaj6WR2fHSWgZRc9df7fhyjahWc" alt="Profile Picture" width="500" />
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajjiadd&label=Profile%20views&color=0e75b6&style=flat" alt="ajjiadd" /> </p>
